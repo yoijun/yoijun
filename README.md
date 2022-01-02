@@ -1,8 +1,8 @@
 ## Hello! I have no Idea What I'm Doing!
 
 <p align="center">
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning nothing
+- 🔭 I’m currently working on GUI and UI design
+- 🌱 I’m currently trying to learn Python
 
 ## 🧰 Languages and Tools:
 <p align="center">
