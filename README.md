@@ -1,5 +1,6 @@
 ### Hello! I'm Me 👋
 
+<p align="center">
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning nothing
 
